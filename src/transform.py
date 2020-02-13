@@ -91,3 +91,4 @@ if __name__ == "__main__":
 
             cv2.imshow("img", prep.adjust_to_see(image))
             cv2.waitKey(0)
+            
